@@ -16,6 +16,7 @@ public class Calcy {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+         System.out.print("my new change");
         System.out.print("hello")System.out.print("hello")System.out.print("hello")System.out.print("hello")System.out.print("hello")System.out.print("hello")
         Calculator cal=new Calculator();
         cal.setVisible(true);
